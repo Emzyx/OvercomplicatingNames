@@ -1,1 +1,5 @@
-/imageGenerationClient/chromedriver.exe
+**/chromedriver.exe
+
+**/results/
+**/results-*/
+**/.ipynb_checkpoints/
